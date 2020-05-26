@@ -1,0 +1,2 @@
+1. Create a database which name is crud
+2. Import crud.sql to your created Database.
